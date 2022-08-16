@@ -22,8 +22,8 @@ Root -+- index.html
 
 
 ### Make Directory/Folder
-```shell
-
+``` shell
+mkdir [folderName]
 ```
 
 ### Useful Plugins
@@ -48,7 +48,3 @@ Add to any folder you need to be added to version control but may not be using i
 
 Create it as a New Text file with the filename '.keep'.
 
-## Make Directory/Folder
-``` shell
-mkdir [folderName]
-```
