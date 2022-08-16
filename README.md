@@ -1,5 +1,8 @@
-# Folder Structure
-'''
+# Learning HTML, CSS and JS
+WOW, what a ride...
+
+## Folder Structure
+```text
 Root -+- index.html
       |
       +- README.md
@@ -13,15 +16,15 @@ Root -+- index.html
                  +- img -+-
                  |
                  +- media -+-
-'''
+```
 
 ## Useful Commands
 
 
 ### Make Directory/Folder
-'''shell
+```shell
 
-'''
+```
 
 ### Useful Plugins
 - .ignore
@@ -44,3 +47,8 @@ This file is used to force folders that are 'empty' to be committed...
 Add to any folder you need to be added to version control but may not be using immediately.
 
 Create it as a New Text file with the filename '.keep'.
+
+## Make Directory/Folder
+``` shell
+mkdir [folderName]
+```
